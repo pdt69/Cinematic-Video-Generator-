@@ -1,0 +1,8 @@
+{
+  "name": "Cinematic Image Animator",
+  "description": "Upload an image and transform it into a stunning cinematic 3D video animation using AI. Customize styles, effects, and aspect ratios to create your perfect clip.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
